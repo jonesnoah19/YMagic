@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="52256" Quantity="1" Sideboard="false" Name="Aegis of the Gods" Annotation="0" />
+  <Cards CatID="52182" Quantity="1" Sideboard="false" Name="Agent of Erebos" Annotation="0" />
+  <Cards CatID="79126" Quantity="1" Sideboard="false" Name="Alseid of Life's Bounty" Annotation="0" />
+  <Cards CatID="60088" Quantity="1" Sideboard="false" Name="Anguished Unmaking" Annotation="0" />
+  <Cards CatID="52909" Quantity="1" Sideboard="false" Name="Swords to Plowshares" Annotation="0" />
+  <Cards CatID="79130" Quantity="1" Sideboard="false" Name="Archon of Sun's Grace" Annotation="0" />
+  <Cards CatID="57682" Quantity="1" Sideboard="false" Name="Auramancer" Annotation="0" />
+  <Cards CatID="79132" Quantity="1" Sideboard="false" Name="Banishing Light" Annotation="0" />
+  <Cards CatID="69351" Quantity="2" Sideboard="false" Name="Swamp" Annotation="0" />
+  <Cards CatID="79628" Quantity="4" Sideboard="false" Name="Swamp" Annotation="0" />
+  <Cards CatID="20209" Quantity="1" Sideboard="false" Name="Solemn Simulacrum" Annotation="0" />
+  <Cards CatID="47897" Quantity="1" Sideboard="false" Name="Blind Obedience" Annotation="0" />
+  <Cards CatID="80517" Quantity="1" Sideboard="false" Name="Scoured Barrens" Annotation="0" />
+  <Cards CatID="23116" Quantity="1" Sideboard="false" Name="Boros Garrison" Annotation="0" />
+  <Cards CatID="72917" Quantity="1" Sideboard="false" Name="Brought Back" Annotation="0" />
+  <Cards CatID="71320" Quantity="1" Sideboard="false" Name="Captive Audience" Annotation="0" />
+  <Cards CatID="80229" Quantity="1" Sideboard="false" Name="Cathartic Reunion" Annotation="0" />
+  <Cards CatID="90421" Quantity="1" Sideboard="false" Name="Resurgent Belief" Annotation="0" />
+  <Cards CatID="69347" Quantity="3" Sideboard="false" Name="Plains" Annotation="0" />
+  <Cards CatID="54432" Quantity="1" Sideboard="false" Name="Crackling Doom" Annotation="0" />
+  <Cards CatID="12047" Quantity="1" Sideboard="false" Name="Crystal Chimes" Annotation="0" />
+  <Cards CatID="23805" Quantity="1" Sideboard="false" Name="Debtors' Knell" Annotation="0" />
+  <Cards CatID="85018" Quantity="1" Sideboard="false" Name="Demonic Lore" Annotation="0" />
+  <Cards CatID="57934" Quantity="1" Sideboard="false" Name="Demonic Pact" Annotation="0" />
+  <Cards CatID="71986" Quantity="1" Sideboard="false" Name="Despark" Annotation="0" />
+  <Cards CatID="78518" Quantity="1" Sideboard="false" Name="Doom Foretold" Annotation="0" />
+  <Cards CatID="52276" Quantity="1" Sideboard="false" Name="Doomwake Giant" Annotation="0" />
+  <Cards CatID="79624" Quantity="5" Sideboard="false" Name="Plains" Annotation="0" />
+  <Cards CatID="79150" Quantity="1" Sideboard="false" Name="Elspeth Conquers Death" Annotation="0" />
+  <Cards CatID="80503" Quantity="1" Sideboard="false" Name="Evolving Wilds" Annotation="0" />
+  <Cards CatID="51815" Quantity="1" Sideboard="false" Name="Fate Unraveler" Annotation="0" />
+  <Cards CatID="88883" Quantity="1" Sideboard="false" Name="Fracture" Annotation="0" />
+  <Cards CatID="46743" Quantity="1" Sideboard="false" Name="Grave Betrayal" Annotation="0" />
+  <Cards CatID="30977" Quantity="1" Sideboard="false" Name="Oblivion Ring" Annotation="0" />
+  <Cards CatID="52036" Quantity="1" Sideboard="false" Name="Grim Guardian" Annotation="0" />
+  <Cards CatID="72854" Quantity="1" Sideboard="false" Name="Hall of Heliod's Generosity" Annotation="0" />
+  <Cards CatID="61406" Quantity="1" Sideboard="false" Name="Harmless Offering" Annotation="0" />
+  <Cards CatID="79172" Quantity="1" Sideboard="false" Name="Idyllic Tutor" Annotation="0" />
+  <Cards CatID="67947" Quantity="1" Sideboard="false" Name="Isolated Chapel" Annotation="0" />
+  <Cards CatID="88907" Quantity="1" Sideboard="false" Name="Lorehold Excavation" Annotation="0" />
+  <Cards CatID="72014" Quantity="1" Sideboard="false" Name="Mayhem Devil" Annotation="0" />
+  <Cards CatID="47749" Quantity="1" Sideboard="false" Name="Merciless Eviction" Annotation="0" />
+  <Cards CatID="69353" Quantity="6" Sideboard="false" Name="Mountain" Annotation="0" />
+  <Cards CatID="51743" Quantity="1" Sideboard="false" Name="Mogis, God of Slaughter" Annotation="0" />
+  <Cards CatID="26409" Quantity="1" Sideboard="false" Name="Mesa Enchantress" Annotation="0" />
+  <Cards CatID="54166" Quantity="1" Sideboard="false" Name="Nomad Outpost" Annotation="0" />
+  <Cards CatID="26702" Quantity="1" Sideboard="false" Name="Graven Cairns" Annotation="0" />
+  <Cards CatID="32973" Quantity="1" Sideboard="false" Name="Open the Vaults" Annotation="0" />
+  <Cards CatID="23683" Quantity="1" Sideboard="false" Name="Orzhov Basilica" Annotation="0" />
+  <Cards CatID="23681" Quantity="1" Sideboard="false" Name="Orzhov Signet" Annotation="0" />
+  <Cards CatID="62079" Quantity="1" Sideboard="false" Name="Perpetual Timepiece" Annotation="0" />
+  <Cards CatID="67665" Quantity="1" Sideboard="false" Name="Phyrexian Scriptures" Annotation="0" />
+  <Cards CatID="37242" Quantity="1" Sideboard="false" Name="Dragonskull Summit" Annotation="0" />
+  <Cards CatID="48370" Quantity="1" Sideboard="false" Name="Possibility Storm" Annotation="0" />
+  <Cards CatID="88951" Quantity="1" Sideboard="false" Name="Reconstruct History" Annotation="0" />
+  <Cards CatID="42654" Quantity="1" Sideboard="false" Name="Clifftop Retreat" Annotation="0" />
+  <Cards CatID="80417" Quantity="1" Sideboard="false" Name="Ruinous Ultimatum" Annotation="0" />
+  <Cards CatID="22647" Quantity="1" Sideboard="false" Name="Caves of Koilos" Annotation="0" />
+  <Cards CatID="87801" Quantity="1" Sideboard="false" Name="Showdown of the Skalds" Annotation="0" />
+  <Cards CatID="57638" Quantity="1" Sideboard="false" Name="Sigil of the Empty Throne" Annotation="0" />
+  <Cards CatID="84876" Quantity="1" Sideboard="false" Name="Slash the Ranks" Annotation="0" />
+  <Cards CatID="58697" Quantity="1" Sideboard="false" Name="Smoldering Marsh" Annotation="0" />
+  <Cards CatID="71044" Quantity="1" Sideboard="false" Name="Smothering Tithe" Annotation="0" />
+  <Cards CatID="80495" Quantity="1" Sideboard="false" Name="Bloodfell Caves" Annotation="0" />
+  <Cards CatID="56924" Quantity="1" Sideboard="false" Name="Spellshock" Annotation="0" />
+  <Cards CatID="46667" Quantity="1" Sideboard="false" Name="Sphere of Safety" Annotation="0" />
+  <Cards CatID="51769" Quantity="1" Sideboard="false" Name="Spirit of the Labyrinth" Annotation="0" />
+  <Cards CatID="72977" Quantity="1" Sideboard="false" Name="Starfield Mystic" Annotation="0" />
+  <Cards CatID="87387" Quantity="1" Sideboard="false" Name="Starnheim Courser" Annotation="0" />
+  <Cards CatID="68403" Quantity="1" Sideboard="false" Name="Stitcher's Supplier" Annotation="0" />
+  <Cards CatID="27436" Quantity="1" Sideboard="false" Name="Sulfurous Springs" Annotation="0" />
+  <Cards CatID="82268" Quantity="1" Sideboard="false" Name="Blasphemous Act" Annotation="0" />
+  <Cards CatID="41445" Quantity="1" Sideboard="false" Name="Swiftfoot Boots" Annotation="0" />
+  <Cards CatID="90118" Quantity="1" Sideboard="false" Name="Battlemage's Bracers" Annotation="0" />
+  <Cards CatID="72832" Quantity="1" Sideboard="false" Name="Talisman of Conviction" Annotation="0" />
+  <Cards CatID="72838" Quantity="1" Sideboard="false" Name="Talisman of Hierarchy" Annotation="0" />
+  <Cards CatID="27462" Quantity="1" Sideboard="false" Name="Battlefield Forge" Annotation="0" />
+  <Cards CatID="67645" Quantity="1" Sideboard="false" Name="The Eldest Reborn" Annotation="0" />
+  <Cards CatID="88993" Quantity="1" Sideboard="false" Name="Thrilling Discovery" Annotation="0" />
+  <Cards CatID="42482" Quantity="1" Sideboard="false" Name="Unburial Rites" Annotation="0" />
+  <Cards CatID="91015" Quantity="1" Sideboard="false" Name="Vindicate" Annotation="0" />
+  <Cards CatID="52989" Quantity="1" Sideboard="false" Name="Animate Dead" Annotation="0" />
+  <Cards CatID="25785" Quantity="1" Sideboard="false" Name="Terramorphic Expanse" Annotation="0" />
+  <Cards CatID="80525" Quantity="1" Sideboard="false" Name="Wind-Scarred Crag" Annotation="0" />
+  <Cards CatID="85332" Quantity="1" Sideboard="true" Name="Ghen, Arcanum Weaver" Annotation="16777728" />
+</Deck>

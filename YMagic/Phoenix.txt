@@ -1,0 +1,25 @@
+Deck
+4 Arclight Phoenix (GRN) 91
+3 Mountain (STX) 373
+4 Steam Vents (GRN) 257
+4 Sprite Dragon (IKO) 211
+3 Island (STX) 369
+3 Crackling Drake (GRN) 163
+1 Stormwing Entity (M21) 73
+4 Brainstorm (STA) 13
+4 Faithless Looting (STA) 38
+1 Lightning Axe (JMP) 341
+4 Opt (DAR) 60
+2 Pillar of Flame (JMP) 355
+2 Shock (STA) 44
+2 Blitz of the Thunder-Raptor (IKO) 109
+4 Expressive Iteration (STX) 186
+2 Finale of Promise (WAR) 127
+2 Sulfur Falls (DAR) 247
+1 Spirebluff Canal (KLR) 286
+2 Riverglide Pathway (ZNR) 264
+2 Frostboil Snarl (STX) 265
+2 Fabled Passage (ELD) 244
+1 Fabled Passage (M21) 246
+1 Rielle, the Everwise (IKO) 203
+2 Strategic Planning (STA) 20
