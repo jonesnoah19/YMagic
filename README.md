@@ -4,18 +4,18 @@ A tool for analyzing a Magic the Gathering decklist.
 
 A project I made to showcase a handful of skills:
 
-File I/O
+    -File I/O
 
-Using a REST-like API
+    -Using a REST-like API
 
-Error Handling
+    -Error Handling
 
-Working with JSON
+    -Working with JSON
 
-Working with XML
+    -Working with XML
 
-Regular Expressions
+    -Regular Expressions
 
-Agregating & Analysis
+    -Agregating & Analysis
 
-Simple and Dynamic Plotting in Matplotlib
+    -Simple and Dynamic Plotting in Matplotlib
