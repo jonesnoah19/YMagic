@@ -5,9 +5,9 @@ Import a saved deck from Magic Arena, Magic the Gathering Online, or text-based 
 
 The YMagic folder contains 2 deck lists to test with, and screenshots of their results.
 
-!(https://github.com/jonesnoah19/YMagic/blob/main/YMagic/Fig_1.png)
+![](https://github.com/jonesnoah19/YMagic/blob/main/YMagic/Fig_1.png)
 
-!(https://github.com/jonesnoah19/YMagic/blob/main/YMagic/Fig_2.png)
+![](https://github.com/jonesnoah19/YMagic/blob/main/YMagic/Fig_2.png)
 
 A project I made to showcase a handful of skills:
 
