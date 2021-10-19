@@ -23,6 +23,6 @@ Working with XML
 
 Regular Expressions
 
-Agregating & Analysis
+Aggregating & Analysis
 
 Simple and Dynamic Plotting in Matplotlib
